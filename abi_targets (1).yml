@@ -1,0 +1,11 @@
+Comments: ''
+Direction: ''
+Lex: 
+Regex: '(\babi\b|ankle brachial index)( \w{0,20}){0,10} \d+\.\d+'
+Type: abi_value_nlp
+
+
+
+
+
+

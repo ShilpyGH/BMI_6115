@@ -1,0 +1,36 @@
+Comments: ''
+Direction: ''
+Lex: peripheral artery disease
+Regex: ''
+Type: PAD_NLP
+---
+Comments: ''
+Direction: ''
+Lex: PVD
+Regex: ''
+Type: PAD_NLP
+---
+Comments: ''
+Direction: ''
+Lex: peripheral vascular disease
+Regex: ''
+Type: PAD_NLP
+---
+Comments: ''
+Direction: ''
+Lex: peripheral arterial occlusive disease
+Regex: ''
+Type: PAD_NLP
+---
+Comments: ''
+Direction: ''
+Lex: chronic vascular disease
+Regex: ''
+Type: PAD_NLP
+
+
+
+
+
+
+
